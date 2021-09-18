@@ -7,3 +7,5 @@ To use this theme for your WordPress site:
 3. Click "Add New"
 4. Click "Upload Theme" and select this theme's zip file(creatorwp.zip)
 5. Activate the theme.
+
+![CreatorWP](screenshot.png)
