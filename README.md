@@ -1,6 +1,6 @@
 CreatorWP is a highly customizable WordPress Theme Developed by Faran Tariq.
 
-#Installation
+## Installation
 To use this theme for your WordPress site:
 1. Download the zip file of this theme from github.
 2. In your WordPress Installation go to Appearance > Themes
